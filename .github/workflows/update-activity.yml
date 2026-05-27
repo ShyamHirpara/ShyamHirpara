@@ -17,6 +17,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "activity"
+          feed_list: "https://github.com/ShyamHirpara.atom"
