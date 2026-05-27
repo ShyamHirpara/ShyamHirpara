@@ -136,7 +136,7 @@ A modern Learning Management System built with Django REST framework and React.
 
 ---
 
-## 🌳 3D Contributions (Northern Hemisphere)
+## 🌳 GitHub Contribution Graph
 
 <p align="center">
   <img src="profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Contribution" />
