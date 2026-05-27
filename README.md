@@ -155,8 +155,8 @@ A modern Learning Management System built with Django REST framework and React.
 ---
 
 ## ⚡ Recent GitHub Activity
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!-- activity:START -->
+<!-- activity:END -->
 
 ---
 
