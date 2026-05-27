@@ -156,6 +156,11 @@ A modern Learning Management System built with Django REST framework and React.
 
 ## ⚡ Recent GitHub Activity
 <!-- activity:START -->
+- [ShyamHirpara pushed ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara/compare/077dfe047c...221306ecf5)
+- [ShyamHirpara pushed ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara/compare/858d3f6244...d162dd2e73)
+- [ShyamHirpara pushed ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara/compare/76d376a919...62b4561c84)
+- [ShyamHirpara pushed ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara/compare/1876ebf73f...76d376a919)
+- [ShyamHirpara pushed ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara/compare/8e34620508...1876ebf73f)
 <!-- activity:END -->
 
 ---
