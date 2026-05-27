@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,5&text=Shyam%20Hirpara&fontAlign=50&fontSize=42&desc=Embedded%20Firmware%20Engineer%20%7C%20IoT%20and%20Robotics&descAlign=50&descAlignY=75&fontColor=000000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=000000,2E95D3,00599C&text=Shyam%20Hirpara&fontAlign=50&fontSize=50&desc=Embedded%20Firmware%20Engineer%20%7C%20IoT%20and%20Robotics&descAlign=50&descAlignY=70&fontColor=FCFCF7">
 </p>
 
 <p align="center">
@@ -132,6 +132,14 @@ A modern Learning Management System built with Django REST framework and React.
   <a href="https://github.com/ShyamHirpara/EduStream-Course-Platform-with-LMS"><img src="https://img.shields.io/badge/Repo-EduStream-181717?style=flat-square&logo=github"/></a>
   <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+---
+
+## 🌳 3D Contributions (Northern Hemisphere)
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Contribution" />
 </p>
 
 ---
