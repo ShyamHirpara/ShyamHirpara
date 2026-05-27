@@ -26,6 +26,7 @@ ehthumbs_vista.db
 .tmp/
 
 # Personal folders
+.gitignore
 resume/
 context/
 *.code-workspace
