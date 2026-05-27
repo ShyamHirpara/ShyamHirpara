@@ -1,0 +1,31 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Directories potentially created on remote links
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.tmp/
+
+# Personal folders
+resume/
+context/
+*.code-workspace
