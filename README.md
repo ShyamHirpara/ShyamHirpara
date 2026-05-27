@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,50:2E95D3,100:00599C&text=Shyam%20Hirpara&fontAlign=50&fontSize=42&desc=Embedded%20%20Firmware%20Engineer%20%7C%20IoT%20%26%20Robotics&descAlign=50&descAlignY=75&fontColor=000000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,5&text=Shyam%20Hirpara&fontAlign=50&fontSize=42&desc=Embedded%20Firmware%20Engineer%20%7C%20IoT%20and%20Robotics&descAlign=50&descAlignY=75&fontColor=000000">
 </p>
 
 <p align="center">
@@ -148,6 +148,11 @@ A modern Learning Management System built with Django REST framework and React.
 
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Created repository [ShyamHirpara/ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara)
+2. 🚀 Pushed to [ShyamHirpara/EduStream-Course-Platform-with-LMS](https://github.com/ShyamHirpara/EduStream-Course-Platform-with-LMS)
+3. 🌟 Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+4. 🔨 Pushed to [ShyamHirpara/COMPRESSOR](https://github.com/ShyamHirpara/COMPRESSOR)
+5. 🤖 Created repository [ShyamHirpara/Line-Following-Robotic-Car](https://github.com/ShyamHirpara/Line-Following-Robotic-Car)
 <!--END_SECTION:activity-->
 
 ---
