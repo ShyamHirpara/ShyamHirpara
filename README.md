@@ -156,9 +156,11 @@ A modern Learning Management System built with Django REST framework and React.
 
 ## ⚡ Recent GitHub Activity
 <!-- activity:START -->
-1. 🌟 Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-2. 🌟 Starred [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
-3. 🌟 Starred [bitan-del/zap](https://github.com/bitan-del/zap)
+1. 🚀 Pushed to [ShyamHirpara/ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara)
+2. 🎉 Created repository [ShyamHirpara/ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara)
+3. 🌟 Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+4. 🌟 Starred [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
+5. 🌟 Starred [bitan-del/zap](https://github.com/bitan-del/zap)
 <!-- activity:END -->
 
 ---

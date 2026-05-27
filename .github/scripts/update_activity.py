@@ -14,31 +14,48 @@ def main():
         return
 
     events_list = []
+    seen_events = set()
+    
     for event in data:
         repo_name = event['repo']['name']
         repo_url = f"https://github.com/{repo_name}"
         event_type = event['type']
         
-        # Skip events in the ShyamHirpara/ShyamHirpara repo to avoid cluttering with profile updates
-        if repo_name == "ShyamHirpara/ShyamHirpara":
-            continue
-            
+        # Skip automated bot commits to prevent spamming the activity feed
         if event_type == 'PushEvent':
-            events_list.append(f"🚀 Pushed to [{repo_name}]({repo_url})")
+            commits = event.get('payload', {}).get('commits', [])
+            is_bot = False
+            for c in commits:
+                author_name = c.get('author', {}).get('name', '')
+                message = c.get('message', '')
+                if 'github-actions' in author_name or 'Update recent GitHub activity' in message or 'Generated 3D Profile Contrib' in message:
+                    is_bot = True
+                    break
+            if is_bot:
+                continue
+            
+        event_str = None
+        if event_type == 'PushEvent':
+            event_str = f"🚀 Pushed to [{repo_name}]({repo_url})"
         elif event_type == 'WatchEvent':
-            events_list.append(f"🌟 Starred [{repo_name}]({repo_url})")
+            event_str = f"🌟 Starred [{repo_name}]({repo_url})"
         elif event_type == 'CreateEvent':
-            events_list.append(f"🎉 Created repository [{repo_name}]({repo_url})")
+            event_str = f"🎉 Created repository [{repo_name}]({repo_url})"
         elif event_type == 'IssuesEvent' and event['payload']['action'] == 'opened':
-            events_list.append(f"🐛 Opened issue in [{repo_name}]({repo_url})")
+            event_str = f"🐛 Opened issue in [{repo_name}]({repo_url})"
         elif event_type == 'PullRequestEvent' and event['payload']['action'] == 'opened':
-            events_list.append(f"🔥 Opened PR in [{repo_name}]({repo_url})")
+            event_str = f"🔥 Opened PR in [{repo_name}]({repo_url})"
         
+        # Add to list if it's a valid tracked event and not a duplicate
+        if event_str and event_str not in seen_events:
+            events_list.append(event_str)
+            seen_events.add(event_str)
+            
         if len(events_list) >= 5:
             break
 
     if not events_list:
-        events_list.append("No recent public activity outside of profile updates.")
+        events_list.append("No recent public activity.")
 
     activity_text = "\n".join([f"{i+1}. {text}" for i, text in enumerate(events_list)])
     
