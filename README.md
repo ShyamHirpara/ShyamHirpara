@@ -139,7 +139,7 @@ A modern Learning Management System built with Django REST framework and React.
 ## 🌳 GitHub Contribution Graph
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-season-animate.svg" alt="3D GitHub Contribution" />
+  <img src="https://raw.githubusercontent.com/ShyamHirpara/ShyamHirpara/output-3d-contrib/profile-season-animate.svg" alt="3D GitHub Contribution" />
 </p>
 
 ---
