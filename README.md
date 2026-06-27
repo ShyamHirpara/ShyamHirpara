@@ -159,8 +159,6 @@ A modern Learning Management System built with Django REST framework and React.
 1. 🚀 Pushed to [ShyamHirpara/Computer-Vision](https://github.com/ShyamHirpara/Computer-Vision)
 2. 🚀 Pushed to [ShyamHirpara/Robotic-Arm](https://github.com/ShyamHirpara/Robotic-Arm)
 3. 🎉 Created repository [ShyamHirpara/Computer-Vision](https://github.com/ShyamHirpara/Computer-Vision)
-4. 🚀 Pushed to [ShyamHirpara/ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara)
-5. 🎉 Created repository [ShyamHirpara/ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara)
 <!-- activity:END -->
 
 ---
