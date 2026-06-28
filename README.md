@@ -156,9 +156,10 @@ A modern Learning Management System built with Django REST framework and React.
 
 ## ⚡ Recent GitHub Activity
 <!-- activity:START -->
-1. 🚀 Pushed to [ShyamHirpara/Computer-Vision](https://github.com/ShyamHirpara/Computer-Vision)
-2. 🚀 Pushed to [ShyamHirpara/Robotic-Arm](https://github.com/ShyamHirpara/Robotic-Arm)
-3. 🎉 Created repository [ShyamHirpara/Computer-Vision](https://github.com/ShyamHirpara/Computer-Vision)
+1. 🌟 Starred [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
+2. 🚀 Pushed to [ShyamHirpara/Computer-Vision](https://github.com/ShyamHirpara/Computer-Vision)
+3. 🚀 Pushed to [ShyamHirpara/Robotic-Arm](https://github.com/ShyamHirpara/Robotic-Arm)
+4. 🎉 Created repository [ShyamHirpara/Computer-Vision](https://github.com/ShyamHirpara/Computer-Vision)
 <!-- activity:END -->
 
 ---
