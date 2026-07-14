@@ -156,7 +156,9 @@ A modern Learning Management System built with Django REST framework and React.
 
 ## ⚡ Recent GitHub Activity
 <!-- activity:START -->
-1. 🌟 Starred [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
+1. 🌟 Starred [spmallick/learnopencv](https://github.com/spmallick/learnopencv)
+2. 🌟 Starred [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+3. 🌟 Starred [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
 <!-- activity:END -->
 
 ---
