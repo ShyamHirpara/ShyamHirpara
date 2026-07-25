@@ -156,10 +156,7 @@ A modern Learning Management System built with Django REST framework and React.
 
 ## ⚡ Recent GitHub Activity
 <!-- activity:START -->
-1. 🌟 Starred [arunbhardwaj/LeetHub-2.0](https://github.com/arunbhardwaj/LeetHub-2.0)
-2. 🌟 Starred [spmallick/learnopencv](https://github.com/spmallick/learnopencv)
-3. 🌟 Starred [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-4. 🌟 Starred [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics)
+1. 🚀 Pushed to [ShyamHirpara/Leetcode-Problems](https://github.com/ShyamHirpara/Leetcode-Problems)
 <!-- activity:END -->
 
 ---
