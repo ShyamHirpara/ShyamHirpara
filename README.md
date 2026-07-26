@@ -144,6 +144,16 @@ A modern Learning Management System built with Django REST framework and React.
 
 ---
 
+## 👨‍💻 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/ZHr6wfGBHJ/">
+    <img src="https://leetcard.jacoblin.cool/ZHr6wfGBHJ?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ## 🏆 GitHub Streak Stats
 
 <p align="center">
