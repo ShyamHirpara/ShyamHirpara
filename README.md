@@ -166,8 +166,8 @@ A modern Learning Management System built with Django REST framework and React.
 
 ## ⚡ Recent GitHub Activity
 <!-- activity:START -->
-1. 🚀 Pushed to [ShyamHirpara/ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara)
-2. 🚀 Pushed to [ShyamHirpara/Leetcode-Problems](https://github.com/ShyamHirpara/Leetcode-Problems)
+1. 🚀 Pushed to [ShyamHirpara/Leetcode-Problems](https://github.com/ShyamHirpara/Leetcode-Problems)
+2. 🚀 Pushed to [ShyamHirpara/ShyamHirpara](https://github.com/ShyamHirpara/ShyamHirpara)
 <!-- activity:END -->
 
 ---
