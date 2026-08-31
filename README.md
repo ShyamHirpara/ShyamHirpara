@@ -166,10 +166,11 @@ A modern Learning Management System built with Django REST framework and React.
 
 ## ⚡ Recent GitHub Activity
 <!-- activity:START -->
-1. 🌟 Starred [zouyanjian/techbooks](https://github.com/zouyanjian/techbooks)
-2. 🌟 Starred [cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)
-3. 🌟 Starred [ytx-readings/cpp-books](https://github.com/ytx-readings/cpp-books)
-4. 🚀 Pushed to [ShyamHirpara/Leetcode-Problems](https://github.com/ShyamHirpara/Leetcode-Problems)
+1. 🌟 Starred [netrinomike/barr-c](https://github.com/netrinomike/barr-c)
+2. 🌟 Starred [zouyanjian/techbooks](https://github.com/zouyanjian/techbooks)
+3. 🌟 Starred [cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)
+4. 🌟 Starred [ytx-readings/cpp-books](https://github.com/ytx-readings/cpp-books)
+5. 🚀 Pushed to [ShyamHirpara/Leetcode-Problems](https://github.com/ShyamHirpara/Leetcode-Problems)
 <!-- activity:END -->
 
 ---
