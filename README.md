@@ -167,7 +167,6 @@ A modern Learning Management System built with Django REST framework and React.
 ## ⚡ Recent GitHub Activity
 <!-- activity:START -->
 1. 🌟 Starred [netrinomike/barr-c](https://github.com/netrinomike/barr-c)
-2. 🌟 Starred [zouyanjian/techbooks](https://github.com/zouyanjian/techbooks)
 <!-- activity:END -->
 
 ---
