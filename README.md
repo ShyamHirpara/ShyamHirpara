@@ -166,8 +166,9 @@ A modern Learning Management System built with Django REST framework and React.
 
 ## ⚡ Recent GitHub Activity
 <!-- activity:START -->
-1. 🚀 Pushed to [ShyamHirpara/AWS-project](https://github.com/ShyamHirpara/AWS-project)
-2. 🎉 Created repository [ShyamHirpara/AWS-project](https://github.com/ShyamHirpara/AWS-project)
+1. 🌟 Starred [EricMarceloCS/Advanced-C-Programming-Masterclass](https://github.com/EricMarceloCS/Advanced-C-Programming-Masterclass)
+2. 🚀 Pushed to [ShyamHirpara/AWS-project](https://github.com/ShyamHirpara/AWS-project)
+3. 🎉 Created repository [ShyamHirpara/AWS-project](https://github.com/ShyamHirpara/AWS-project)
 <!-- activity:END -->
 
 ---
