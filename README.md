@@ -169,7 +169,6 @@ A modern Learning Management System built with Django REST framework and React.
 1. 🌟 Starred [Toby-Fish/CSAPP_Homework_and_Labs](https://github.com/Toby-Fish/CSAPP_Homework_and_Labs)
 2. 🌟 Starred [EricMarceloCS/Advanced-C-Programming-Masterclass](https://github.com/EricMarceloCS/Advanced-C-Programming-Masterclass)
 3. 🚀 Pushed to [ShyamHirpara/AWS-project](https://github.com/ShyamHirpara/AWS-project)
-4. 🎉 Created repository [ShyamHirpara/AWS-project](https://github.com/ShyamHirpara/AWS-project)
 <!-- activity:END -->
 
 ---
